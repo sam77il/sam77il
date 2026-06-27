@@ -1,6 +1,6 @@
 # Yavuz Samil Güngör
 
-17 years old fullstack developer
+17 years old fullstack developer<br />
 Student at SRH Fachschulen GmbH at Heidelberg<br />
 Built my own Web Framework in Go<br />
 Currently I am freelancing and working on a ecommerce system<br />
@@ -15,5 +15,5 @@ Currently I am freelancing and working on a ecommerce system<br />
 - Verse (UEFN)
 
 ---
-Based in Mannheim, Germany
+Based in Mannheim, Germany<br />
 *Contact*: yavuzsamil.guengoer@gmail.com
