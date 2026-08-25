@@ -15,5 +15,5 @@ Currently I am freelancing and working on a ecommerce system<br />
 - Verse (UEFN)
 
 ---
-Based in Mannheim, Germany<br />
+Based in Ludwigshafen am Rhein, Germany<br />
 *Contact*: yavuzsamilg@gmail.com
