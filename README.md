@@ -16,4 +16,4 @@ Currently I am freelancing and working on a ecommerce system<br />
 
 ---
 Based in Mannheim, Germany<br />
-*Contact*: yavuzsamil.guengoer@gmail.com
+*Contact*: yavuzsamilg@gmail.com
